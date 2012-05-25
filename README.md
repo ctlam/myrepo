@@ -2,4 +2,4 @@ myrepo
 ======
 
 MyRepo
-v1
+v2
